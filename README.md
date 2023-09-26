@@ -1,4 +1,4 @@
-5. Agregar los el siguiente contenido al archivo `README`:
+Agregar los el siguiente contenido al archivo `README`:
    
    - https://www.atlassian.com/git/tutorials/advanced-overview
    - https://dev.to/ruppysuppy/advanced-git-concepts-you-should-know-nle
