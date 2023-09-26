@@ -6,3 +6,6 @@
    - https://ihumai.medium.com/gitflow-colaborando-en-git-4046f4a95c9c
 
 
+nuevo link:
+https://education.github.com/git-cheat-sheet-education.pdf
+
